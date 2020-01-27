@@ -2,3 +2,5 @@ This repo will be helpfull for some one who is looking for how to backup and res
 
 
 Here we are going to use openssl aes 256 bit encryption. This repo includes two scripts, one for backup and ecryption another for decryption
+
+mysql database password should be set with in a seperate file or with in mysql cofigruation file.
