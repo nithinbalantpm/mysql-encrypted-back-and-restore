@@ -1,0 +1,4 @@
+This repo will be helpfull for some one who is looking for how to backup and restore mysql databases of a server in an encrypted format.
+
+
+Here we are going to use openssl aes 256 bit encryption. This repo includes two scripts, one for backup and ecryption another for decryption
